@@ -73,3 +73,7 @@
 - Ollama AI  
 - CSV для хранения и объединения данных  
 - Email sender для автоматизированного outreach к компаниям
+## 5. Google Colab Notebooks
+- https://colab.research.google.com/drive/1U-Vx1nF2DG2Pb6dyxwKVR1ESGE6dN6on?usp=sharing
+- https://colab.research.google.com/drive/1cE4kqLSjQrmydJXLqNPQm3EK84fN_xD2?usp=sharing
+- https://colab.research.google.com/drive/1Ll4dQI7WiTTCwnXZkrvgr3XeHimL3HLB?usp=sharing 
